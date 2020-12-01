@@ -1,6 +1,16 @@
 
 
 
-background{
-    color: aliceblue;
+body{
+    background-color: rgb(208, 225, 240);
+}
+
+
+header{
+    background-color: rgb(64, 64, 197);
+    text-align: center;
+}
+
+h2{
+    text-align: center;
 }
