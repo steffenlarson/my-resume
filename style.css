@@ -9,8 +9,16 @@ body{
 header{
     background-color: rgb(64, 64, 197);
     text-align: center;
+    border-width: 10px;
+    border-color: black;
+    padding: 1em;
 }
 
 h2{
     text-align: center;
+}
+
+footer{
+    
+    background-color: rgb(27, 27, 121);
 }
